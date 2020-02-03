@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4051aab5-483a-4bd4-a3e2-f09ae4667cb0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RL_experiments$prova.coverage" NAME="prova Coverage Results" MODIFIED="1544963848405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDPG_example" />
+    <SUITE FILE_PATH="coverage/RL_experiments$randm.coverage" NAME="randm Coverage Results" MODIFIED="1544956435149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDPG_example" />
+    <SUITE FILE_PATH="coverage/RL_experiments$getting_started.coverage" NAME="getting_started Coverage Results" MODIFIED="1545387737949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fetch" />
+    <SUITE FILE_PATH="coverage/RL_experiments$check_the_replay_buffer.coverage" NAME="check_the_replay_buffer Coverage Results" MODIFIED="1547134101462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HER" />
+    <SUITE FILE_PATH="coverage/RL_experiments$cartpole_policy_gradient.coverage" NAME="cartpole_policy_gradient Coverage Results" MODIFIED="1543847167634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RL_experiments$cartpole_actor_critic.coverage" NAME="cartpole_actor_critic Coverage Results" MODIFIED="1543938416223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RL_experiments$DDPG_Agent.coverage" NAME="DDPG_Agent Coverage Results" MODIFIED="1544812723652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDPG_example" />
+    <SUITE FILE_PATH="coverage/RL_experiments$cartpole_example.coverage" NAME="cartpole_example Coverage Results" MODIFIED="1543850421441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RL_experiments$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1549289131962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HER" />
+    <SUITE FILE_PATH="coverage/RL_experiments$PROVA.coverage" NAME="PROVA Coverage Results" MODIFIED="1543950514079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RL_experiments$normalizer.coverage" NAME="normalizer Coverage Results" MODIFIED="1544967616955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDPG_example" />
+    <SUITE FILE_PATH="coverage/RL_experiments$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1548521383297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HER" />
+    <SUITE FILE_PATH="coverage/RL_experiments$main.coverage" NAME="main Coverage Results" MODIFIED="1549377703430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy_selection" />
+    <SUITE FILE_PATH="coverage/RL_experiments$test_trained_policy.coverage" NAME="test_trained_policy Coverage Results" MODIFIED="1548109089638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HER" />
+    <SUITE FILE_PATH="coverage/RL_experiments$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1544995574701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddpg_pendulum" />
+    <SUITE FILE_PATH="coverage/RL_experiments$trajectory.coverage" NAME="trajectory Coverage Results" MODIFIED="1545141655981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HER" />
+    <SUITE FILE_PATH="coverage/RL_experiments$plot.coverage" NAME="plot Coverage Results" MODIFIED="1548839555950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HER" />
+    <SUITE FILE_PATH="coverage/RL_experiments$ddpg.coverage" NAME="ddpg Coverage Results" MODIFIED="1544177673213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DDPG_example" />
+    <SUITE FILE_PATH="coverage/RL_experiments$cartpole_actor_critic__1_.coverage" NAME="cartpole_actor_critic (1) Coverage Results" MODIFIED="1544692730494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cartpole" />
+    <SUITE FILE_PATH="coverage/RL_experiments$check_the_sampling.coverage" NAME="check_the_sampling Coverage Results" MODIFIED="1547132103739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HER" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DDPG_Agent.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HER/DDPG_Agent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitingnore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DDPG_example/.gitingnore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="112">
+                <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>render</find>
+      <find>action</find>
+      <find>norm</find>
+      <find>to</find>
+      <find>detach</find>
+      <find>detac</find>
+      <find>done</find>
+      <find>self.epo</find>
+      <find>torch</find>
+      <find>batch_size</find>
+      <find>gamma</find>
+      <find>print(stat</find>
+      <find>OU</find>
+      <find>Q_t</find>
+      <find>clip</find>
+      <find>* self.max_action_value</find>
+      <find>n_success</find>
+      <find>SEE</find>
+      <find>env.env.distance_threshold =</find>
+      <find>samp</find>
+      <find>array</find>
+      <find>from_</find>
+      <find>noise_eps</find>
+      <find>success_rate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cartpole_example.py" />
+        <option value="$PROJECT_DIR$/cartpole_policy_gradient.py" />
+        <option value="$PROJECT_DIR$/cartpole_actor_critic.py" />
+        <option value="$USER_HOME$/tensorflow/lib/python3.6/site-packages/tensorflow/python/keras/_impl/keras/applications/densenet.py" />
+        <option value="$PROJECT_DIR$/PROVA.py" />
+        <option value="$PROJECT_DIR$/HER/DDPG_algorithm.py" />
+        <option value="$PROJECT_DIR$/Cartpole/cartpole_DQN_usign_CNN.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/ddpg.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/wrappers.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/DDPG.py" />
+        <option value="$PROJECT_DIR$/Cartpole/cartpole_actor_critic.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/randm.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/random_policy.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/prova.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/utils.py" />
+        <option value="$PROJECT_DIR$/ddpg-pendulum/main.py" />
+        <option value="$PROJECT_DIR$/ddpg_pendulum/main.py" />
+        <option value="$PROJECT_DIR$/ddpg_pendulum/ddpg_agent.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/models.py" />
+        <option value="$PROJECT_DIR$/HER/Replay_buffer.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/normalizer.py" />
+        <option value="$PROJECT_DIR$/HER/MODELS.py" />
+        <option value="$PROJECT_DIR$/HER/normalizer.py" />
+        <option value="$PROJECT_DIR$/HER/trajecotry.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/noise.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/DDPG_Agent.py" />
+        <option value="$PROJECT_DIR$/HER/goals_sampling_strategies.py" />
+        <option value="$PROJECT_DIR$/HER/trajectory.py" />
+        <option value="$PROJECT_DIR$/Fetch/getting_started.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/main.py" />
+        <option value="$PROJECT_DIR$/HER/noise.py" />
+        <option value="$PROJECT_DIR$/HER/check_the_sampling.py" />
+        <option value="$PROJECT_DIR$/HER/check_the_replay_buffer.py" />
+        <option value="$USER_HOME$/tensorflow/lib/python3.6/site-packages/gym/envs/robotics/fetch_env.py" />
+        <option value="$PROJECT_DIR$/HER/utils.py" />
+        <option value="$PROJECT_DIR$/HER/replay_buffer.py" />
+        <option value="$PROJECT_DIR$/HER/test_trained_policy.py" />
+        <option value="$PROJECT_DIR$/HER/her_goals_sampling_strategies.py" />
+        <option value="$PROJECT_DIR$/HER/models.py" />
+        <option value="$PROJECT_DIR$/HER/DDPG_Agent.py" />
+        <option value="$PROJECT_DIR$/HER/plotting.py" />
+        <option value="$PROJECT_DIR$/HER/deterministic_goal_used_at_the_beginning.txt" />
+        <option value="$PROJECT_DIR$/HER/temp_test_fetch_env.py" />
+        <option value="$PROJECT_DIR$/HER/plot.py" />
+        <option value="$PROJECT_DIR$/HER/main.py" />
+        <option value="$PROJECT_DIR$/policy_selection/policy_net.py" />
+        <option value="$PROJECT_DIR$/policy_selection/main.py" />
+        <option value="$PROJECT_DIR$/policy_selection/simple_agent.py" />
+        <option value="$PROJECT_DIR$/DDPG_example/.gitingnore" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RL_experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RL_experiments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RL_experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RL_experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="HER" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HER/checkpoints" />
+      <recent name="$PROJECT_DIR$/HER/safety_check_files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL_experiments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HER" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HER/temp_test_fetch_env.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL_experiments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HER" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HER/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL_experiments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/policy_selection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/policy_selection/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL_experiments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HER" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HER/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_trained_policy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RL_experiments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HER" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HER/test_trained_policy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.main (3)" />
+      <item itemvalue="Python.test_trained_policy" />
+      <item itemvalue="Python.plot" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.test_trained_policy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4051aab5-483a-4bd4-a3e2-f09ae4667cb0" name="Default" comment="" />
+      <created>1542791149625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542791149625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946752" weight="0.32848486" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50106496" side_tool="true" weight="0.26666668" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49893504" visible="true" weight="0.15824176" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.28557214" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32935324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08260524" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32960597" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.24600638" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14110756" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935324" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2965174" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.26865673" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32960597" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32935324" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3881789" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/torch/tensor.py" />
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/gym/envs/classic_control/pendulum.py" />
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/pyglet/canvas/base.py" />
+    <entry file="file://$PROJECT_DIR$/ddpg_pendulum/DDPG.ipynb" />
+    <entry file="file://$PROJECT_DIR$/ddpg_pendulum/model.py" />
+    <entry file="file://$PROJECT_DIR$/ddpg_pendulum/main.py" />
+    <entry file="file://$PROJECT_DIR$/ddpg_pendulum/ddpg_agent.py" />
+    <entry file="file://$PROJECT_DIR$/DDPG_example/prova.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1716972993/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="2792" column="20" lean-forward="true" selection-start-line="2790" selection-start-column="8" selection-end-line="2792" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/gym/envs/registration.py" />
+    <entry file="file://$PROJECT_DIR$/Cartpole/cartpole_actor_critic.py" />
+    <entry file="file://$PROJECT_DIR$/Fetch/getting_started.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/torch/nn/modules/linear.py" />
+    <entry file="file://$PROJECT_DIR$/DDPG_example/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/numpy/core/_methods.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/torch/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/HER/noise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/gym/core.py" />
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/gym/envs/robotics/robot_env.py" />
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/gym/envs/robotics/fetch_env.py" />
+    <entry file="file://$PROJECT_DIR$/HER/safety_check_files/check_the_sampling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="78" column="29" lean-forward="true" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/safety_check_files/check_the_replay_buffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tensorflow/lib/python3.6/site-packages/gym/wrappers/time_limit.py" />
+    <entry file="file://$PROJECT_DIR$/DDPG_example/noise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1158">
+          <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDPG_example/normalizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="58" selection-start-line="58" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/normalizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cartpole/cartpole_DQN_usign_CNN.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py" />
+    <entry file="file://$PROJECT_DIR$/HER/trajectory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="80" column="44" selection-start-line="80" selection-start-column="44" selection-end-line="80" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDPG_example/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/replay_buffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="49" column="78" selection-start-line="49" selection-start-column="78" selection-end-line="49" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDPG_example/DDPG_Agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="45" column="123" lean-forward="true" selection-start-line="45" selection-start-column="123" selection-end-line="45" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDPG_example/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/her_goals_sampling_strategies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="61" column="56" lean-forward="true" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="146" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/temp_test_fetch_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="136" column="75" selection-start-line="136" selection-start-column="75" selection-end-line="136" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/test_trained_policy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="60" column="60" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HER/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2045">
+          <caret line="376" column="70" selection-start-line="376" selection-start-column="70" selection-end-line="376" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy_selection/main.py" />
+    <entry file="file://$PROJECT_DIR$/policy_selection/policy_net.py" />
+    <entry file="file://$PROJECT_DIR$/Cartpole/cartpole_policy_gradient.py" />
+    <entry file="file://$PROJECT_DIR$/HER/DDPG_Agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy_selection/simple_agent.py" />
+    <entry file="file://$PROJECT_DIR$/HER/deterministic_goal_used_at_the_beginning.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1096">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDPG_example/.gitingnore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
