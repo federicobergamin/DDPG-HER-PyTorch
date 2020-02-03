@@ -1,4 +1,4 @@
-## Experiments with RL
+## Reinforcement Learning experiments: DDPG and HER in PyTorch
 
 Code I wrote in 2018 where I implemented the following papers
 
